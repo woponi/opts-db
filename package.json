@@ -1,0 +1,26 @@
+{
+  "name": "opts-db",
+  "version": "1.0.0",
+  "description": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woponi/opts-db.git"
+  },
+  "keywords": [
+    "opts"
+  ],
+  "author": "Pong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woponi/opts-db/issues"
+  },
+  "homepage": "https://github.com/woponi/opts-db#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
